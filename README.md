@@ -36,7 +36,7 @@
   </h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=200&color=00FFD1&center=true&vCenter=true&width=760&lines=👑+Developer:+Mohammad+Akash;⚙️+Based+on:+Goat+Bot+V2+Framework;📆+Version:+2.0+(Custom+Edition)" alt="dev-lines"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=200&color=00FFD1&center=true&vCenter=true&width=760&lines=👑+Developer:+Mohammad+Akash;⚙️+Based+on:+Mirai+Bot+messenger+Framework;📆+Version:+2.0+(Custom+Edition)" alt="dev-lines"/>
   </p>
 
   <!-- Social Links -->
